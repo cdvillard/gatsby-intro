@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: monospace">
-{ Charles Villard 's coursework for:} <span style="color: orange">|</span>
+{ Charles Villard 's coursework for:} <span color="orange"><blink>|</blink></span>
 </h1>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
