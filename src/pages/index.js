@@ -1,9 +1,10 @@
 import React from 'react';
 import { Link } from 'gatsby';
-
+import Layout from '../components/layout';
 export default () => (
-  <div>
-    <h1>Hello Gatsby!</h1>
+  <Layout>
+    <h1>Hello Gatsby! Let's build a SaaS!</h1>
+    <p>Let's try and level up, shall we?</p>
     <Link to="/about">Learn about me!</Link>
-  </div>
+  </Layout>
 );
